@@ -2,7 +2,12 @@
     <version>57.0</version>
     <types>
         <members>Employee__c</members>
+        <members>Student__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Student__c.All</members>
+        <name>ListView</name>
     </types>
     <types>
         <members>Student__c</members>
@@ -16,6 +21,30 @@
         <members>Employee__c.Employee_Number__c</members>
         <members>Employee__c.Location__c</members>
         <members>Employee__c.Name__c</members>
+        <members>Student__c.Gender__c</members>
+        <members>Student__c.Mobile_Number__c</members>
+        <members>Student__c.Student_Number__c</members>
+        <members>Student__c.Subject__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>Chatter Only User</members>
+        <members>Company Communities User</members>
+        <members>ContractManager</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Minimum Access - Salesforce</members>
+        <members>Partner Community Login User</members>
+        <members>Partner Community User</members>
+        <members>Read Only</members>
+        <members>Salesforce API Only System Integrations</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>StandardAul</members>
+        <members>Work%2Ecom Only User</members>
+        <name>Profile</name>
     </types>
 </Package>
