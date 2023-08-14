@@ -2,18 +2,22 @@
     <version>57.0</version>
     <types>
         <members>Employee__c</members>
+        <members>Rob__c</members>
         <members>Student__c</members>
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Rob__c.All</members>
         <members>Student__c.All</members>
         <name>ListView</name>
     </types>
     <types>
+        <members>Rob__c</members>
         <members>Student__c</members>
         <name>CustomTab</name>
     </types>
     <types>
+        <members>Rob__c-Rob Layout</members>
         <members>Student__c-Student Layout</members>
         <name>Layout</name>
     </types>
