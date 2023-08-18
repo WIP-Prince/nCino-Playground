@@ -21,6 +21,8 @@
         <members>Employee__c.Employee_Number__c</members>
         <members>Employee__c.Location__c</members>
         <members>Employee__c.Name__c</members>
+        <members>Professor__c.Mobile_Number__c</members>
+        <members>Professor__c.Prof_Name__c</members>
         <members>Student__c.Description__c</members>
         <members>Student__c.Gender__c</members>
         <members>Student__c.Mobile_Number__c</members>
