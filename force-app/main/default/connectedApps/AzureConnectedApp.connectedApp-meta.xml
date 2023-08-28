@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>robert.kingsly@wipro.com</contactEmail>
+    <contactPhone>+919940258101</contactPhone>
+    <label>AzureConnectedApp</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <consumerKey>3MVG9n_HvETGhr3AfxTii6wsAbKcbs0Xe03iCvL_hyRMtT_2YpwLIdQ_uSAF_varRigt29eqPH0V9GeGdHqBF</consumerKey>
+        <isAdminApproved>true</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+    <profileName>System Administrator</profileName>
+</ConnectedApp>
