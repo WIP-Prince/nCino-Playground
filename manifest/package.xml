@@ -308,6 +308,7 @@
         <members>Customer.All_Customers</members>
         <members>DataUseLegalBasis.All_DataUseLegalBases</members>
         <members>DataUsePurpose.All_DataUsePurposes</members>
+        <members>Department__c.All</members>
         <members>DigitalWallet.DigitalWallet</members>
         <members>DocumentChecklistItem.All_DocumentChecklistItems</members>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
@@ -357,6 +358,7 @@
         <members>Product2.AllProducts</members>
         <members>ProductTransfer.All_ProductTransfers</members>
         <members>ProductTransfer.My_ProductTransfers</members>
+        <members>Professor__c.All</members>
         <members>ReceivedDocument.All_ReceivedDocuments</members>
         <members>ReceivedDocument.My_ReceivedDocuments</members>
         <members>ReceivedDocumentType.All_ReceivedDocumentTypes</members>
@@ -643,6 +645,7 @@
         <members>Customer</members>
         <members>DataUseLegalBasis</members>
         <members>DataUsePurpose</members>
+        <members>Department__c</members>
         <members>DigitalSignature</members>
         <members>DigitalWallet</members>
         <members>DocumentChecklistItem</members>
@@ -727,6 +730,7 @@
         <members>ProductItemTransaction</members>
         <members>ProductRequired</members>
         <members>ProductTransfer</members>
+        <members>Professor__c</members>
         <members>ProfileSkill</members>
         <members>ProfileSkillEndorsement</members>
         <members>ProfileSkillUser</members>
