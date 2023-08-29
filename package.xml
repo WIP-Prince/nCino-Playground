@@ -1783,6 +1783,8 @@
         <members>DataUsePurpose.LegalBasisId</members>
         <members>DataUsePurpose.Name</members>
         <members>DataUsePurpose.OwnerId</members>
+        <members>Department__c.Dept_Name__c</members>
+        <members>Department__c.Dept_Number__c</members>
         <members>DigitalSignature.SignatureType</members>
         <members>DigitalWallet.AccountId</members>
         <members>DigitalWallet.AuditEmail</members>
