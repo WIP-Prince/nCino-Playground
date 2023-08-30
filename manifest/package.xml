@@ -403,6 +403,7 @@
     </types>
     <types>
         <members>Department__c.Permanent_Employee</members>
+        <members>Department__c.Vendor</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <name>RecordType</name>
     </types>
