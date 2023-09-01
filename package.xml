@@ -20,6 +20,8 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Department__c.Dept_Name__c</members>
+        <members>Department__c.Dept_Number__c</members>
         <members>Employee__c.Employee_Number__c</members>
         <members>Employee__c.Location__c</members>
         <members>Employee__c.Name__c</members>
