@@ -4,6 +4,7 @@
         <members>Employee__c</members>
         <members>Professor__c</members>
         <members>Student__c</members>
+        <members>Teacher__c</members>
         <name>CustomObject</name>
     </types>
     <types>
