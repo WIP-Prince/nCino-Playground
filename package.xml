@@ -33,6 +33,7 @@
         <members>Student__c.Mobile_Number__c</members>
         <members>Student__c.Student_Number__c</members>
         <members>Student__c.Subject__c</members>
+        <members>Teacher__c.Teacher__c</members>
         <name>CustomField</name>
     </types>
     <types>
